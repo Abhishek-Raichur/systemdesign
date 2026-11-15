@@ -9,3 +9,8 @@ youtube:
 youtube:  
     channel:akashcodeofficial  
     Link: https://youtu.be/GZ8nnWdS8zM
+
+### Azure Architecture Explained | Real-World E-Commerce System
+youtube:  
+    channel:akashcodeofficial  
+    Link: https://youtu.be/z_MbgcmfC18
